@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- App Name -->
+    <string name="app_name">PawFinder</string>
+
+    <!-- Splash Screen -->
+    <string name="splash_title">PawFinder</string>
+
+    <!-- Onboarding Screens -->
+    <string name="onboarding1_title">Find your perfect companion</string>
+    <string name="onboarding1_description">Easily explore adoptable pets in your local area. Filter by breed, age, and size to find your ideal furry companion just around the corner.</string>
+    <string name="onboarding2_title">Meet Greet made Easy</string>
+    <string name="onboarding2_description">Schedule meetups with pets at shelters or foster homes. Get to know them in a stress-free, friendly environment.</string>
+    <string name="onboarding3_title">Adopt your best friend</string>
+    <string name="onboarding3_description">When you adopt, you not only save a loving companion but also make space for others.</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_account">I already have an account? Sign in</string>
+
+    <!-- Authentication -->
+    <string name="join_pawfinder">Join PawFinder to find your perfect pet</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="password_hint">At least 8 characters</string>
+    <string name="agree_terms">I agree to the Terms of Services and Privacy Policy</string>
+    <string name="sign_in">Sign In</string>
+    <string name="login">Login</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sign_in_continue">Sign in to continue to PawFinder</string>
+    <string name="or_continue_with">Or continue with</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forget_password">Forgot Password?</string>
+    <string name="dont_have_account">Dont have an account?</string>
+    <string name="sign_up">Sign Up</string>
+
+    <!-- Home Screen -->
+    <string name="welcome_back_user">Welcome back Shashen Amalka</string>
+    <string name="categories">Categories</string>
+    <string name="all">All</string>
+    <string name="cat">Cat</string>
+    <string name="bird">Bird</string>
+    <string name="dog">Dog</string>
+    <string name="see_all">See All</string>
+    <string name="off_cat_adoption">40% Off cat adoption</string>
+    <string name="available_pets">Available Pets</string>
+    <string name="favourite">Favourite</string>
+
+    <!-- Pet Details -->
+    <string name="adopt_this_pet">Adopt this pet now</string>
+    <string name="vaccinated">Vaccinated</string>
+    <string name="certificated">Certificated</string>
+    <string name="description">Description</string>
+    <string name="pet_description">Si Oscar cat is an adorable and charming cat with soft grey and white fur. It is active, friendly, and playful. Perfect for families looking for a cheerful companion.</string>
+
+    <!-- Adoption Process -->
+    <string name="application_submitted">Application Submitted</string>
+    <string name="application_received">Weve received your application and are reviewing it.</string>
+    <string name="meet_greet">Meet Greet</string>
+    <string name="schedule_meet">Schedule a time to meet Luna at the shelter.</string>
+    <string name="confirm_appointment">Confirm Appointment</string>
+    <string name="your_journey">Your Journey</string>
+    <string name="follow_steps">Follow these steps to bring your new friend home.</string>
+    <string name="home_check">Home Check</string>
+    <string name="home_visit">A brief visit to ensure your home is pet-ready.</string>
+    <string name="adoption_day">Adoption Day</string>
+    <string name="complete_paperwork">Complete paperwork and welcome your new pet home!</string>
+    <string name="pay_adoption_fee">Pay Adoption Fee</string>
+
+    <!-- Payment -->
+    <string name="pay_amount">Pay $325.00</string>
+    <string name="complete_payment">Complete payment to continue</string>
+    <string name="adoption_fees">Adoption Fees</string>
+    <string name="adoption_fee">$150.00</string>
+    <string name="vaccination_microchip">$75.00</string>
+    <string name="spay_neuter">$100.00</string>
+    <string name="total">$325.00</string>
+    <string name="card_details">Card Details</string>
+    <string name="card_number">Card Number</string>
+    <string name="expiry_date">MM/YY</string>
+    <string name="cvv">CVV</string>
+    <string name="name_on_card">Name on Card</string>
+    <string name="payment_successful">Payment Successful</string>
+
+    <!-- Profile Screen -->
+    <string name="back">Back</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="user_full_name">Shashen Amalka Darshana</string>
+    <string name="user_email">amalkadarshana9@gmail.com</string>
+    <string name="user_phone">0762229150</string>
+    <string name="user_dob">12/08/2002</string>
+    <string name="user_gender">Male</string>
+    <string name="user_address">10/Temple road, Matara</string>
+    <string name="arrow_right">Navigate right</string>
+    <string name="phone_label">Phone</string>
+    <string name="date_of_birth_label">Date of Birth</string>
+    <string name="gender_label">Gender</string>
+    <string name="address_label">Address</string>
+    <string name="logout">Logout</string>
+    <string name="help_center">Help Center</string>
+    <string name="support">Support</string>
+
+    <!-- Activity Titles -->
+    <string name="title_activity_profile">Profile Activity</string>
+    <string name="title_activity_base">Base Activity</string>
+
+    <!-- Navigation Drawer -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PawFinder">
+        <activity
+            android:name=".BaseActivity"
+            android:exported="false"
+            android:label="@string/title_activity_base"
+            android:theme="@style/Theme.PawFinder.NoActionBar" />
+        <activity
+            android:name=".SIngin"
+            android:exported="false" />
+        <activity
+            android:name=".SIngin"
+            android:exported="false"
+            tools:ignore="DuplicateActivity" />
+        <activity
+            android:name=".On_Board_Screen_3"
+            android:exported="false" />
+
+        <activity
+            android:name=".On_Board_Screen_1"
+            android:exported="false" />
+
+        <activity
+            android:name=".Activity_payment_successful"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_favourite"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_available_pets"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_profile"
+            android:exported="false"
+            android:label="@string/title_activity_profile"
+            android:theme="@style/Theme.PawFinder.NoActionBar" />
+        <activity
+            android:name=".Activity_payment"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_adoption_process"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_pet_details"
+            android:exported="false" />
+
+        <activity
+            android:name=".Activity_home"
+            android:exported="false" />
+        <activity
+            android:name=".Activity_signup"
+            android:exported="false" />
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
